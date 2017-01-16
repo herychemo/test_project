@@ -12,3 +12,5 @@ print("Hi Friends");
 
 obj = MyObject("Object #1");
 
+print(  obj.say_name()  )
+
